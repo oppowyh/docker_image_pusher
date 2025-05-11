@@ -2,4 +2,4 @@ nginx
 linuxserver/qbittorrent
 linuxserver/transmission
 tailscale/tailscale
-navidrome/navidrome
+navidrome
